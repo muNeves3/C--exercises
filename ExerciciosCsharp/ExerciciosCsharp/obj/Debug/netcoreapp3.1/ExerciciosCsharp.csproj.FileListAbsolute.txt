@@ -1,0 +1,13 @@
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\netcoreapp3.1\ExerciciosCsharp.exe
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\netcoreapp3.1\ExerciciosCsharp.deps.json
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\netcoreapp3.1\ExerciciosCsharp.runtimeconfig.json
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\netcoreapp3.1\ExerciciosCsharp.runtimeconfig.dev.json
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\netcoreapp3.1\ExerciciosCsharp.dll
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\bin\Debug\netcoreapp3.1\ExerciciosCsharp.pdb
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.csprojAssemblyReference.cache
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.AssemblyInfoInputs.cache
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.AssemblyInfo.cs
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.dll
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.pdb
+C:\Users\murilo.neves\source\repos\ExerciciosCsharp\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.genruntimeconfig.cache
